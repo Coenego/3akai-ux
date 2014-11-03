@@ -254,6 +254,22 @@
     color: #DB6E4C;
 }
 
+/******************
+ ** Home section **
+ ******************/
+
+.oa-section-image-container {
+    display: table;
+    width: 100%;
+}
+
+.oa-section-image-container > span{
+    display: table-cell;
+    height: 240px;
+    text-align: center;
+    vertical-align: middle;
+}
+
 /**********************
  ** Publication form **
  **********************/
